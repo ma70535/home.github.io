@@ -1,7 +1,7 @@
 {
-  "name": "dmego-home-page",
+  "name": "打瓦糕手马启超-home-page",
   "version": "1.0.5",
-  "description": "Dmego Home Page",
+  "description": "金科2401马启超 Home Page",
   "scripts": {
   },
   "repository": {
@@ -9,10 +9,10 @@
     "url": "git+https://github.com/dmego/home.github.io.git"
   },
   "keywords": [
-    "Dmego",
+    "马启超",
     "HomePage"
   ],
-  "author": "Dmego",
+  "author": "马启超",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dmego/home.github.io/issues"
