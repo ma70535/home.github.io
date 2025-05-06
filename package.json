@@ -1,21 +1,21 @@
 {
-  "name": "打瓦糕手马启超-home-page",
+  "name": "马启超-home-page",
   "version": "1.0.5",
-  "description": "金科2401马启超 Home Page",
+  "description": "马启超 Home Page",
   "scripts": {
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmego/home.github.io.git"
+    "url": "git+https://github.com/ma70535/home.github.io.git"
   },
   "keywords": [
-    "马启超",
+    "ma70535",
     "HomePage"
   ],
   "author": "马启超",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dmego/home.github.io/issues"
+    "url": "https://github.com/ma70535/home.github.io/issues"
   },
-  "homepage": "https://github.com/dmego/home.github.io#readme"
+  "homepage": "https://github.com/ma70535/home.github.io#readme"
 }
